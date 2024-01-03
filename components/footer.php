@@ -34,6 +34,9 @@
 
 </footer>
 
+
 <div class="loader">
    <img src="images/loader.gif" alt="">
 </div>
+
+<script src="https://unpkg.com/scrollreveal@4.0.0/dist/scrollreveal.min.js"></script>

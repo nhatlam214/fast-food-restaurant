@@ -30,6 +30,8 @@ include 'components/add_cart.php';
    <!-- custom css file link  -->
    <link rel="stylesheet" href="css/style.css">
 
+   
+
 </head>
 <body>
 
@@ -37,7 +39,7 @@ include 'components/add_cart.php';
 
 
 
-<section class="hero">
+<section class="hero" id="scroll-up">
 
    <div class="swiper hero-slider">
 
@@ -84,30 +86,30 @@ include 'components/add_cart.php';
 
 </section>
 
-<section class="category">
+<section class="category" id="scroll-up">
 
    <h1 class="title">food category</h1>
 
    <div class="box-container">
 
-      <a href="category.php?category=fast food" class="box">
+      <a href="category.php?category=Pizza" class="box">
          <img src="images/cat-1.png" alt="">
-         <h3>fast food</h3>
+         <h3>Pizzas</h3>
       </a>
 
-      <a href="category.php?category=main dish" class="box">
+      <a href="category.php?category=Burgers" class="box">
          <img src="images/cat-2.png" alt="">
-         <h3>main dishes</h3>
+         <h3>Burgers</h3>
       </a>
 
-      <a href="category.php?category=drinks" class="box">
+      <a href="category.php?category=Drinks" class="box">
          <img src="images/cat-3.png" alt="">
-         <h3>drinks</h3>
+         <h3>Drinks</h3>
       </a>
 
-      <a href="category.php?category=desserts" class="box">
+      <a href="category.php?category=Chicken" class="box">
          <img src="images/cat-4.png" alt="">
-         <h3>desserts</h3>
+         <h3>Chicken</h3>
       </a>
 
    </div>
@@ -117,7 +119,7 @@ include 'components/add_cart.php';
 
 
 
-<section class="products">
+<section class="products" id="scroll-up">
 
    <h1 class="title">latest dishes</h1>
 
@@ -153,8 +155,8 @@ include 'components/add_cart.php';
 
    </div>
 
-   <div class="more-btn">
-      <a href="menu.php" class="btn">veiw all</a>
+   <div class="more-btn" id="scroll-up">
+      <a href="menu.php" class="btn">view all</a>
    </div>
 
 </section>
