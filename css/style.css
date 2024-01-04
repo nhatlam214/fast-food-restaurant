@@ -82,7 +82,7 @@ section{
 
 .heading p{
    font-size: 2.3rem;
-   color:var(--light-color);
+   color:var(--white);
 }
 
 .heading p a{
@@ -601,7 +601,7 @@ section{
 .reviews .slide .stars{
    display: inline-block;
    padding:.5rem 1.5rem;
-   border:var(--border);
+   /* border:var(--border); */
 }
 
 .reviews .slide .stars i{
@@ -662,10 +662,11 @@ section{
 .search-form form{
    display: flex;
    gap:1.3rem;
+   justify-content: center;
 }
 
 .search-form form .box{
-   width: 100%;
+   width: 70%;
    border:var(--border);
    padding:1.4rem;
    font-size: 1.8rem;
