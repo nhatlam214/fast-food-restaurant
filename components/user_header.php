@@ -15,6 +15,7 @@ if(isset($message)){
 
    <section class="flex">
 
+
       <a href="home.php" class="logo"><img src="/images/logo.png" alt=""></a>
 
       <nav class="navbar">

@@ -71,19 +71,19 @@ if(isset($_SESSION['user_id'])){
    <div class="box-container">
 
       <div class="box">
-         <img src="images/step-1.png" alt="">
+         <img src="images/choose-order.png" alt="">
          <h3>choose order</h3>
          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt, dolorem.</p>
       </div>
 
       <div class="box">
-         <img src="images/step-2.png" alt="">
+         <img src="images/delivery.png" alt="">
          <h3>fast delivery</h3>
          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt, dolorem.</p>
       </div>
 
       <div class="box">
-         <img src="images/step-3.png" alt="">
+         <img src="images/enjoy-food.png" alt="">
          <h3>enjoy food</h3>
          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt, dolorem.</p>
       </div>
